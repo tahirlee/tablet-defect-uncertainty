@@ -171,4 +171,5 @@ Run `python smoke_test.py` before anything else to confirm the installation work
 
 ## Contact
 
-[Corresponding author name and email]
+Tahir Mahmood, tahirmahmood@dongguk.edu
+Division of Electronics and Electrical Engineering, Dongguk University, Seoul, South Korea
